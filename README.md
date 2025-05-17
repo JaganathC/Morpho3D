@@ -12,7 +12,7 @@ Start by sketching freely on the 2D canvas ✏️, letting your creativity flow 
 
 🔐 API Keys for Claude, Gemini, Cerebras, and PiAPI
 
-🖥️** Frontend Setup**
+**🖥️ Frontend Setup**
 cd frontend
 npm install
 npm run dev
