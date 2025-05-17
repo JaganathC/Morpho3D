@@ -12,11 +12,19 @@ Start by sketching freely on the 2D canvas ✏️, letting your creativity flow 
 
 🔐 API Keys for Claude, Gemini, Cerebras, and PiAPI
 
-🖥️ Frontend Setup
-![image](https://github.com/user-attachments/assets/c3a4e0a9-90e2-4c98-8191-671d23bb7e49)
+🖥️** Frontend Setup**
+cd frontend
+npm install
+npm run dev
 
-🧠 Backend Setup
-![image](https://github.com/user-attachments/assets/ae2e9f3c-c772-4a16-935a-3a43630d5612)
+**🧠 Backend Setup**
+cd backend
+
+# 🔑 Remember to add API keys
+cp .env.example .env
+
+# 🐳 Start the backend using Docker
+docker compose up
 
 
 
