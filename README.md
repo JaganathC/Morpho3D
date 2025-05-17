@@ -6,25 +6,25 @@ Start by sketching freely on the 2D canvas ✏️, letting your creativity flow 
 
 ⚡ **Quick Start
 🔧 Prerequisites**
-✅ Node.js 18+
+✅ Node.js 18+  
 
-✅ Python 3.10+
+✅ Python 3.10+  
 
 🔐 API Keys for Claude, Gemini, Cerebras, and PiAPI
 
-**🖥️ Frontend Setup**
-cd frontend
-npm install
-npm run dev
+**🖥️ Frontend Setup**  
+cd frontend  
+npm install  
+npm run dev     
 
-**🧠 Backend Setup**
-cd backend
+**🧠 Backend Setup**  
+cd backend   
 
-# 🔑 Remember to add API keys
-cp .env.example .env
+# 🔑 Remember to add API keys   
+cp .env.example .env   
 
-# 🐳 Start the backend using Docker
-docker compose up
+# 🐳 Start the backend using Docker   
+docker compose up  
 
 
 
